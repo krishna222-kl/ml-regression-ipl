@@ -1,0 +1,5 @@
+.venv/
+IPL.csv
+.ipynb_checkpoints/
+__pycache__/
+output.xlsx
